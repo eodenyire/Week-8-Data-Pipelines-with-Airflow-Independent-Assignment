@@ -73,19 +73,19 @@ Python file extracts the data from the three CSV files and stores it in Pandas d
 3. The load_data() function in the load_data.py Python file loads the transformed data into the PostgreSQL database.<br>
 
 ## Authors
-Emmanuel Odenyire Anyira
+Emmanuel Odenyire Anyira<br>
 
-Google colab notebook:  https://colab.research.google.com/drive/12pE7ax3L5YRTSAfBEKw1lxl2JwozUjaA?usp=sharing
+Google colab notebook:  https://colab.research.google.com/drive/12pE7ax3L5YRTSAfBEKw1lxl2JwozUjaA?usp=sharing<br>
 
-This assisgnment has two deliverables.
-I was expected to deliver a GitHub repository with the following:
-● Airflow DAG file for the data pipeline.
-● Documentation of the pipeline.
-○ Highlight at least 3 best practices used during the implementation.
-○ Recommendations for deployment and running the pipeline in a cloud-based
+This assisgnment has two deliverables.<br>
+I was expected to deliver a GitHub repository with the following<br>
+● Airflow DAG file for the data pipeline.<br>
+● Documentation of the pipeline.<br>
+○ Highlight at least 3 best practices used during the implementation.<br>
+○ Recommendations for deployment and running the pipeline in a cloud-based<br>
 provider.
 
-These deliverables can be found in the assignmentfiles folder in this repository, although the colab link in this ReadMe file also have a well explained and documented DAG with all the required explainations and docuemntation on this project. Mark the files in the assignmentfiles folder.
+These deliverables can be found in the assignmentfiles folder in this repository, although the colab link in this ReadMe file also have a well explained and documented DAG with all the required explainations and docuemntation on this project. Mark the files in the assignmentfiles folder.<br>
 
 
 
