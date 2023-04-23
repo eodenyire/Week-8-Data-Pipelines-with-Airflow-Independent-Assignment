@@ -77,6 +77,16 @@ Emmanuel Odenyire Anyira
 
 Google colab notebook:  https://colab.research.google.com/drive/12pE7ax3L5YRTSAfBEKw1lxl2JwozUjaA?usp=sharing
 
+This assisgnment has two deliverables.
+I was expected to deliver a GitHub repository with the following:
+● Airflow DAG file for the data pipeline.
+● Documentation of the pipeline.
+○ Highlight at least 3 best practices used during the implementation.
+○ Recommendations for deployment and running the pipeline in a cloud-based
+provider.
+
+These deliverables can be found in the assignmentfiles folder in this repository, although the colab link in this ReadMe file also have a well explained and documented DAG with all the required explainations and docuemntation on this project. Mark the files in the assignmentfiles folder.
+
 
 
 
